@@ -1,0 +1,139 @@
+*{
+    margin:0;
+    padding:0;
+}
+.disabled{
+    display: none;
+}
+.cont{
+    display:flex;
+    flex-direction: column;
+    align-content: center;
+}
+.no_image{
+    display:block;
+    margin: 2% auto;
+    width:25%;
+
+}
+#heading{
+    font-weight: bold;
+    width:70%;
+    margin:2% auto;
+    text-align: center;
+}
+#add_task{
+    position: fixed;
+    bottom:8%;
+    z-index: 1;
+    right:1%;
+    width:10%;
+    height:10%;
+}
+#add_task:hover{
+    cursor:pointer;
+    animation:link_button 0.2s forwards ease-in;
+}
+
+.cover{
+    display:block;
+    position: absolute;
+    width:100%;
+    background: rgba(217, 217, 217, 0.50);
+    height:100%;
+    z-index:2;
+}
+#popup {
+    position: absolute;
+    width: 40%;
+    top:50%;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+    background-color: #fff;
+    border-radius: 15px;
+    padding:10px;
+    z-index: 3;
+}
+#popup #edit{
+    font-size:1.2rem;
+    text-align: center;
+    margin: 1%;
+}
+#popup #adding{
+    margin:1% auto;
+    display: block;
+    width:70%;
+    border:1px solid #6C63FF;
+    border-radius: 7px;
+    padding:10px;
+}
+#popup #deletiton{
+    margin:3% auto;
+    display: block;
+    width:70%;
+    text-align: center;
+
+}
+#popup #confirmation{
+    width:80%;
+    display:flex;
+    margin:1% auto;
+    margin-top: 10%;
+    justify-content: space-between;
+}
+
+#popup #cancel{
+    padding:10px;
+    font-weight: bold;
+    border:1px solid #6C63FF;
+    background-color: 10;
+    border-radius: 5px;
+}
+#popup #apply, #popup #remove{
+    padding:10px;
+    font-weight: bold;
+    border:1px solid #6C63FF;
+    border-radius: 5px;
+    background-color: #6C63FF;
+    color:#fff;
+}
+#popup #remove{
+    background-color: #B40003;
+}
+.container{
+    margin:1% auto;
+
+    display:flex;
+    justify-content: space-between;
+    width:80%;
+}
+hr{
+    width:80%;
+    margin:auto;
+}
+.left{
+    display:flex;
+    gap:10px;
+}
+.left .check{
+    width:20px;
+    height: 20px;
+}
+.left .task{
+    font-size: 1.2rem;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+}
+.right{
+    display: flex;
+    gap:10px;
+}
+@keyframes link_button {
+    from{
+        transform:scale(1)
+    }
+    to{
+        transform: scale(1.1);
+    }
+}
