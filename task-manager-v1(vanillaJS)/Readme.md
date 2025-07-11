@@ -4,23 +4,6 @@ A simple and interactive task manager built with HTML, CSS, and JavaScript. It a
 
 ---
 
-## Preview
-
-###  Home Screen - No task
-![no task Screen](images/no_task.png)
-###  add-task screen
-![add task Screen](images/add_task.png)
-###  edit_task screen
-![edit task Screen](images/edit_task.png)
-###  after edit Screen
-![no task Screen](images/afterEdit_task.png)
-###  complete task Screen - 
-![complete task Screen](images/complete_task.png)
-###  Delete task Screen 
-![no task Screen](images/deletePoupup_task.png)
-###  After Dlete Screen 
-![no task Screen](images/afterDelete_task.png)
-
 ##  Features
 
 - Add new tasks 
@@ -82,6 +65,23 @@ task-manager-v1(vanilla-js)/
 | `completeMarker()`   | Adds line-through for completed tasks        |
 | `taskAvailbilty()`   | Checks and shows "No Tasks" message          |
 | `addTask()`          | Creates a popup for adding task              |
+
+## Preview
+
+###  Home Screen - No task
+![no task Screen](images/no_task.png)
+###  add-task screen
+![add task Screen](images/add_task.png)
+###  complete task Screen - 
+![complete task Screen](images/complete_task.png)
+###  edit_task screen
+![edit task Screen](images/edit_task.png)
+###  after edit Screen
+![no task Screen](images/afterEdit_task.png)
+###  Delete task Screen 
+![delete task Screen](images/deletePopup_task.png)
+###  After Dlete Screen 
+![no task Screen](images/afterDelete_task.png)
 
 ## Future Improvements
 
