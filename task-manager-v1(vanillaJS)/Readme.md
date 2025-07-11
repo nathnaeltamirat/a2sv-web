@@ -91,7 +91,9 @@ task-manager-v1(vanilla-js)/
 - [ ] Dark mode  
 
 ## Mockup
-[Nathnael Tamirat figma design sharable link](https://www.figma.com/design/WAKCvPFRpOJga6ZaTJ59VU/ToDo-Mockup?node-id=0-1&m=dev)
+<a href="https://www.figma.com/design/WAKCvPFRpOJga6ZaTJ59VU/ToDo-Mockup?node-id=0-1&m=dev" target="_blank" rel="noopener noreferrer">
+  Nathnael Tamirat figma design sharable link
+</a>
 ###  Home screen
 ![Home  Screen](mockup/View-Page.png)
 ###  Adding-ToDo screen
