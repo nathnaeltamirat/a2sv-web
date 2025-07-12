@@ -40,7 +40,7 @@ open index.html
 ```
 
 ## Project Structure
-
+```bash
 task-manager-v2(typescript)/
 │
 ├── dist/                  # Compiled JavaScript output
@@ -54,6 +54,7 @@ task-manager-v2(typescript)/
 │
 ├── index.html             # Main HTML entry point
 └── README.md              # Project documentation
+```
 
 
 ## Functions Overview
