@@ -1,0 +1,12 @@
+#add_task{
+    position: fixed;
+    bottom:8%;
+    z-index: 1;
+    right:1%;
+    width:10%;
+    height:10%;
+}
+#add_task:hover{
+    cursor:pointer;
+    animation:link_button 0.2s forwards ease-in;
+}

@@ -118,12 +118,13 @@ hr{
 }
 .left .check{
     width:20px;
-    height: 20px;
+    height: 10px;
 }
 .left .task{
     font-size: 1.2rem;
     white-space: nowrap;
     text-overflow: ellipsis;
+    margin-top: -40px;
 }
 .right{
     display: flex;

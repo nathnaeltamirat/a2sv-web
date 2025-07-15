@@ -1,0 +1,45 @@
+.no-image{
+    display:block;
+    width:20%;
+    margin:auto;
+}
+.container{
+    margin:1% auto;
+
+    display:flex;
+    justify-content: space-between;
+    width:80%;
+}
+hr{
+    width:80%;
+    margin:auto;
+}
+.left{
+    display:flex;
+    gap:10px;
+}
+.left .check{
+    width:20px;
+    height: 20px;
+}
+.left .task{
+    font-size: 1.2rem;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+    margin-top: 2%;
+}
+.right{
+    display: flex;
+    gap:10px;
+}
+.completed{
+    text-decoration:line-through;
+}
+@keyframes link_button {
+    from{
+        transform:scale(1)
+    }
+    to{
+        transform: scale(1.1);
+    }
+}
