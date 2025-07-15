@@ -1,6 +1,6 @@
 # Task Manager App
 
-A simple and interactive task manager built with HTML, CSS, and Typescript. It allows users to add, edit, complete, and delete tasks with a modern popup UI.
+A simple and interactive task manager built with React HTML, CSS, and Typescript. It allows users to add, edit, complete,  with a modern popup UI and Delete.
 
 ---
 
@@ -20,6 +20,7 @@ A simple and interactive task manager built with HTML, CSS, and Typescript. It a
 - **HTML** – Structure
 - **CSS** – Styling
 - **Typescript** – Logic & Interactivity
+- **React** - Framework
 - **Figma** – UI mockup (included in `/mockup`)
 
 
@@ -31,14 +32,18 @@ A simple and interactive task manager built with HTML, CSS, and Typescript. It a
 
 ```bash
 git clone https://github.com/nathnaeltamirat/a2sv-web.git
-cd task-manager-v2(typescript)
+cd task-manager-v3(react)
 ```
 
-### 2. Open in browser
+### 2. Install dependencies
 ```bash
-open index.html
+npm install
 ```
 
+### 3. Start the development server
+```bash
+npm run dev
+```
 ## Project Structure
 ```bash
 task-manager-v3(react)/
@@ -83,8 +88,7 @@ task-manager-v3(react)/
 ###  after edit Screen
 ![no task Screen](src/images/afterEdit_task.png)
 ###  Delete task Screen 
-![delete task Screen](src/images/delete_task
-.png)
+![delete task Screen](src/images/delete_task.png)
 
 
 ## Future Improvements
