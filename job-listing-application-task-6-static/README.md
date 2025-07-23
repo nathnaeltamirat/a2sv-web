@@ -72,9 +72,9 @@ job-listing-application-task-6-static/
 ## Preview
 
 ###  Home Screen - all opportunites
-![home](/home.png)
+![home](https://raw.githubusercontent.com/nathnaeltamirat/a2sv-web/main/public/home.png)
 ###  Opportunity Screen - one opportunity
-![getTask](/single.png)
+![getTask](https://raw.githubusercontent.com/nathnaeltamirat/a2sv-web/main/public/single.png)
 
 
 
