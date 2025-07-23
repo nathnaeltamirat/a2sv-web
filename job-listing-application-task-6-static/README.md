@@ -72,9 +72,9 @@ job-listing-application-task-6-static/
 ## Preview
 
 ###  Home Screen - all opportunites
-![no task Screen](/public/home.png)
+![home](/home.png)
 ###  Opportunity Screen - one opportunity
-![add task Screen](/public/single.png)
+![getTask](/single.png)
 
 
 
