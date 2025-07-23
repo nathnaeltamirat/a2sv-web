@@ -73,9 +73,10 @@ job-listing-application-task-7-dynamic/
 
 
 ###  Home Screen - all opportunites
-![home](https://raw.githubusercontent.com/nathnaeltamirat/a2sv-web/main/public/home.png)
+![Home Screen](https://raw.githubusercontent.com/nathnaeltamirat/a2sv-web/main/job-listing-application-task-7-dynamic/public/home.png)
+
 ###  Opportunity Screen - one opportunity
-![getTask](https://raw.githubusercontent.com/nathnaeltamirat/a2sv-web/main/public/single.png)
+![GET Screen](https://raw.githubusercontent.com/nathnaeltamirat/a2sv-web/main/job-listing-application-task-7-dynamic/public/single.png)
 
 
 
