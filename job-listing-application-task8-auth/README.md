@@ -1,8 +1,8 @@
 # Task Manager App
+---
 
 A simple job application showr built with NextJs , Typescript and Tailwind CSS. It allows users to see all opportunites and details about it using real API with authentication and otp.
 google auth won't work since only the api is given rather than the db
----
 
 ##  Features
 - Signup /Login
