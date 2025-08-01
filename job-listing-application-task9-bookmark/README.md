@@ -88,25 +88,25 @@ job-listing-application-task-7-dynamic/
 
 
 ###  Boomarked Screen 
-![Boomarked](https://raw.githubusercontent.com/nathnaeltamirat/a2sv-web/main/job-listing-application-task8-auth/public/bookmarked.png)
+![Boomarked](https://raw.githubusercontent.com/nathnaeltamirat/a2sv-web/main/job-listing-application-task9-bookmark/public/bookmarked.png)
 
 ###  UnBookmarked Screen 
-![UnBookmarked](https://raw.githubusercontent.com/nathnaeltamirat/a2sv-web/main/job-listing-application-task8-auth/public/unbookmarked.png)
+![UnBookmarked](https://raw.githubusercontent.com/nathnaeltamirat/a2sv-web/main/job-listing-application-task9-bookmark/public/unbookmarked.png)
 
 ###  Signup Screen 
-![Signup](https://raw.githubusercontent.com/nathnaeltamirat/a2sv-web/main/job-listing-application-task8-auth/public/signup.png)
+![Signup](https://raw.githubusercontent.com/nathnaeltamirat/a2sv-web/main/job-listing-application-task9-bookmark/public/signup.png)
 
 ###  OTP Waiting Screen
-![OTP waiting Screen](https://raw.githubusercontent.com/nathnaeltamirat/a2sv-web/main/job-listing-application-task8-auth/public/waiting.png)
+![OTP waiting Screen](https://raw.githubusercontent.com/nathnaeltamirat/a2sv-web/main/job-listing-application-task9-bookmark/public/waiting.png)
 
 ###  SendOTP Screen 
-![SendOTP](https://raw.githubusercontent.com/nathnaeltamirat/a2sv-web/main/job-listing-application-task8-auth/public/sendOtp.png)
+![SendOTP](https://raw.githubusercontent.com/nathnaeltamirat/a2sv-web/main/job-listing-application-task9-bookmark/public/sendOtp.png)
 
 ###  Confirming Screen 
-![confirm](https://raw.githubusercontent.com/nathnaeltamirat/a2sv-web/main/job-listing-application-task8-auth/public/confirm.png)
+![confirm](https://raw.githubusercontent.com/nathnaeltamirat/a2sv-web/main/job-listing-application-task9-bookmark/public/confirm.png)
 
 ###  Login Screen 
-![login](https://raw.githubusercontent.com/nathnaeltamirat/a2sv-web/main/job-listing-application-task8-auth/public/login.png)
+![login](https://raw.githubusercontent.com/nathnaeltamirat/a2sv-web/main/job-listing-application-task9-bookmark/public/login.png)
 
 
 
